@@ -3,5 +3,5 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
-
+puts "Welcome tp Tic Tac To
 index = input_to_index(input)
